@@ -1,4 +1,4 @@
- volsbb-autologin
+# volsbb-autologin
 A simple utility tool for students of VIT University, Vellore and Chennai Campus to automatically log in to VOLSBB
 internet access account on startup
 
