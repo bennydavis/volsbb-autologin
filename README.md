@@ -28,7 +28,7 @@ pwd
 copy the working directory address
 
 ```
-sudo nano /etc/rc.local
+sudo nano ~/etc/rc.local
 ```
 
 ```
