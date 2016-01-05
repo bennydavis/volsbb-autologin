@@ -5,7 +5,7 @@ echo $?
 nmcli c up id VIT2.4G
 if [[ $? -eq 0 ]]; then
 	userid = "<YOUR-USER-ID>"
-	pwd = "<YOUR-PASSWORD>"
+	pwd = "<YOUR PASSWORD>"
 	INTERFACE="wlan0"
 	ACTION="up"
 	SSID="VIT2.4G"
